@@ -1,0 +1,46 @@
+books{color:white;background-color:#c03b3b;width:100%;}
+
+heading{
+color:#ffffff;
+font-size:40px;
+background-color:#18478d;
+}
+
+heading,title,author,publisher{
+display:block;
+}
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="my css.css" type="text/css"?>
+<books>
+<heading>喜歡的歌手</heading>
+<book>
+<title>孫盛希Shi Shi</title>
+<author>滾石唱片創作歌手</author>
+<publisher>代表作品：《恆溫》《少一點天份》《是他不配》《微笑帶過》《自然凋謝》《很晚的晚安》《曖》《Someday or One Day》《逃》</publisher>
+我最喜歡的作品：《夢遊》《你那邊幾點？》《曖》《人樣》《Ｌｅｔ　ｉｔ　ｒｏｌｌ》《ＧｏｔＵ》
+</book>
+
+<book>
+<title>羅莎莎Sabrina Lo</title>
+<author>華研國際音樂歌手，聲林之王第一季選手</author>
+<publisher>代表作品：《慣性失蹤》《熄燈時間》《連名帶姓Cover》《掉了Cover》</publisher>
+我最喜歡的作品：《慣性失蹤》《熄燈時間》《愛是》《連名帶姓Cover》《我們Cover》
+</book>
+<book>
+<title>李友廷Yo Lee</title>
+<author>華研國際音樂創作歌手，聲林之王第一季冠軍</author>
+<publisher>代表作品：《誰》《想和你一起》《直到我遇見了你》《把音量轉小》</publisher>
+我最喜歡的作品：《麥香魚》《噁心》《誰》《直到我遇見了你》《難過到這邊就好》
+</book>
+<book>
+<title>陳忻玥Vicky Chen</title>
+<author>SKR Presents 陶山音樂歌手，聲林之王第二季選手</author>
+<publisher>代表作品：《炙愛》《煙幕》《入土之前》《時間的輪》《Am I Who I Am》</publisher>
+我最喜歡的作品：《炙愛》《煙幕》《No Play Cover》
+</book>
+</books>
+
+title{
+font-size:25px;
+font-weight:bold;
+}
